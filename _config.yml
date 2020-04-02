@@ -1,1 +1,7 @@
-
+title: Christopher Leighton
+defaults:
+  -
+    scope:
+      path: "" # all files
+    values:
+      layout: "default"
