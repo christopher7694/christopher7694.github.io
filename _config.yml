@@ -1,2 +1,8 @@
 title: Christopher Leighton
 description: Personal Website for Christopher Leighton
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
